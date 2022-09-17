@@ -10,7 +10,7 @@ version = "1.0.0"
 
 kotlin {
     multiplatformSwiftPackage {
-        packageName("KotlinMultiplatformSPExample")
+        packageName("HienTestPodExample")
         swiftToolsVersion("5.3")
         targetPlatforms {
             iOS { v("11") }
